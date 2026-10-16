@@ -1,0 +1,6 @@
+{
+  "name": "PITCH MATCH - Tinder Fútbol",
+  "description": "Plataforma nativa y premium para buscar partidos de fútbol amateur, hacer match con retas cercanas y gestionar convocatorias como Host.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
